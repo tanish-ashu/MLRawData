@@ -1,4 +1,4 @@
-# MLRawData
+# Structure
 
 HVM_Internship_Project/
 │
